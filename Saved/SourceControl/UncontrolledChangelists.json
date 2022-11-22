@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"X:/Projects/Unreal Projects/DarknessExpedition/DarknessExpedition/Content/StarterContent/Props/MaterialSphere.uasset",
+				"X:/Projects/Unreal Projects/DarknessExpedition/DarknessExpedition/Content/__ExternalActors__/TopDown/Maps/TopDownMap/B/72/PR1QS01SW5BWFPFZ9C79RF.uasset",
+				"X:/Projects/Unreal Projects/DarknessExpedition/DarknessExpedition/Content/__ExternalActors__/TopDown/Maps/TopDownMap/7/43/KCOU8O5LTCF16FPA9RNLK8.uasset",
+				"X:/Projects/Unreal Projects/DarknessExpedition/DarknessExpedition/Content/__ExternalActors__/TopDown/Maps/TopDownMap/0/WM/EHOX3YPZ8BWS13D7E6IFN2.uasset",
+				"X:/Projects/Unreal Projects/DarknessExpedition/DarknessExpedition/Content/__ExternalActors__/TopDown/Maps/TopDownMap/0/MB/J5WHCOZ4GU1YICRISB3DL6.uasset"
+			]
+		}
+	]
+}
